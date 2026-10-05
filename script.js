@@ -1,4 +1,4 @@
-const WHATS = '5551980400701';
+const WHATS = '55519999999';
 
 // Links do WhatsApp com mensagem pronta
 document.querySelectorAll('[data-whats]').forEach(el => {
